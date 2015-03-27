@@ -1,3 +1,6 @@
+/* tonyvu CSS */
+.btn-demo{width:100%;}
+
 /*
 Theme Name: Flat Theme
 Theme URI: http://shapebootstrap.net/
@@ -44,7 +47,7 @@ body > section,
 }
 
 img {
-  display: block;
+  display: inline-block;
   height: auto;
   max-width: 100%;
 }

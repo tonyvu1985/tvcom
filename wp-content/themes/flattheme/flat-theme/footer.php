@@ -23,13 +23,13 @@
       <div class="col-sm-6">
         <ul class="pull-right">
           <?php 
-          wp_nav_menu( array(
+       /*   wp_nav_menu( array(
             'theme_location' => 'footer',
             'container'  => false,
             'menu_class' => '',
             'items_wrap'=>'%3$s'
             )
-          );
+          );*/
           ?>
           <li>
             <a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a><!--#gototop-->
